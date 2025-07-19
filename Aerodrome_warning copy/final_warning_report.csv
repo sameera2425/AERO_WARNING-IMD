@@ -1,0 +1,57 @@
+Sl. No.,Elements (Thunderstorm/Surface wind & Gust),Warning issue Time,true-1 / false-0,Remarks
+1,Gust warning,040730,0,No gust/direction mismatch
+2,Gust warning,060715,1,Gust 18KT Dir 290 matched
+3,Gust warning,062300,1,OBS
+4,Gust warning,100330,1,Gust 19KT Dir 250 matched
+5,Gust warning,100730,1,Gust 19KT Dir 250 matched
+6,Gust warning,110630,0,No gust/direction mismatch
+7,Gust warning,111030,1,Gust 17KT Dir 250 matched
+8,Gust warning,111300,1,Gust 17KT Dir 250 matched
+9,Gust warning,120800,0,No gust/direction mismatch
+10,Gust warning,161030,1,Gust 19KT Dir 240 matched
+11,Gust warning,162325,1,OBS
+12,Gust warning,170315,1,OBS
+13,Gust warning,170715,1,OBS
+14,Gust warning,171045,0,No gust/direction mismatch
+15,Gust warning,172300,0,No gust/direction mismatch
+16,Gust warning,180415,1,OBS
+17,Gust warning,180745,1,Gust 18KT Dir 230 matched
+18,Gust warning,181145,1,Gust 24KT Dir 250 matched
+19,Gust warning,181730,0,No gust/direction mismatch
+20,Gust warning,190545,1,Gust 19KT Dir 230 matched
+21,Gust warning,200530,1,Gust 17KT Dir 230 matched
+22,Gust & Thunderstorm warning,200830,1,Gust 17KT Dir 230 matched FEW030CB found
+23,Thunderstorm warning,201230,1, FEW030CB found
+24,Thunderstorm warning,201630,1, FEW030CB found
+25,Thunderstorm warning,202130,1, FEW030CB found
+26,Gust & Thunderstorm warning,210130,0,Missing CB or direction mismatch
+27,Thunderstorm warning,210930,1, FEW030CB found
+28,Thunderstorm warning,211330,1, FEW030CB found
+29,Thunderstorm warning,211730,1, FEW030CB found
+30,Thunderstorm warning,212130,1, FEW030CB found
+31,Thunderstorm warning,220630,0,Missing CB or direction mismatch
+32,Thunderstorm warning,221530,1, FEW030CB found
+33,Thunderstorm warning,221930,1, FEW030CB found
+34,Gust & Thunderstorm warning,222330,0,Missing CB or direction mismatch
+35,Thunderstorm warning,230630,1, FEW030CB found
+36,Thunderstorm warning,231130,1, FEW030CB found
+37,Thunderstorm warning,231640,1, FEW030CB found
+38,Gust & Thunderstorm warning,240615,1,Gust 17KT Dir 260 matched FEW030CB found
+39,Thunderstorm warning,241230,1, FEW030CB found
+40,Thunderstorm warning,250430,0,No gust/direction mismatch
+41,Thunderstorm warning,251300,1, FEW030CB found
+42,Thunderstorm warning,261230,1, FEW030CB found
+43,Thunderstorm warning,261630,1, FEW030CB found
+44,Thunderstorm warning,270700,0,Missing CB or direction mismatch
+45,Thunderstorm warning,271430,1, FEW030CB found
+46,Thunderstorm warning,280700,1, FEW030CB found
+47,Gust & Thunderstorm warning,280945,1,OBS
+48,Gust & Thunderstorm warning,281615,1,OBS
+49,Thunderstorm warning,290700,1, FEW030CB found
+50,Thunderstorm warning,291100,1, FEW030CB found
+51,Thunderstorm warning,291500,1, FEW030CB found
+52,Thunderstorm warning,291500,1, FEW030CB found
+53,Gust warning,301330,1,OBS
+54,Thunderstorm warning,301415,1,OBS
+55,Thunderstorm warning,301800,1, FEW030CB found
+56,Thunderstorm warning,302200,1, FEW030CB found
